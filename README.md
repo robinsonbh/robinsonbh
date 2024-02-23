@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robinsonbh I spend the majority of my time self-studying for hands-on experience on various IT areas such as Cybersecurity, Network Defense, and Information Systems Security mainly in the form of home labs.
+- 👋 Hi, I’m @robinsonbh I spend the majority of my time self-studying for hands-on experience in various IT areas such as Cybersecurity, Network Defense, and Information Systems Security mainly in the form of home labs.
 - 👀 I’m interested in learning all things technology.
 - 🌱 I’m currently learning how to become a Cybersecurity Professional
 - 💞️ I’m looking to collaborate on how Cybersecurity works with Servicenow
